@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CallShield</string>
+    <string name="home_tab">الرئيسية</string>
+    <string name="logs_tab">السجل</string>
+    <string name="settings_tab">الإعدادات</string>
+    <string name="add_number">إضافة رقم</string>
+    <string name="block_duration">مدة الحظر</string>
+    <string name="nickname">اللقب (اختياري)</string>
+    <string name="call_attempts">محاولات الاتصال</string>
+    <string name="last_attempt">آخر محاولة</string>
+    <string name="block_now">حظر الآن</string>
+    <string name="unblock">إلغاء الحظر</string>
+    <string name="smart_block">حظر تلقائي</string>
+    <string name="do_not_disturb">عدم الإزعاج</string>
+    <string name="analysis">تحليل الإزعاج</string>
+    <string name="search">بحث</string>
+</resources>
