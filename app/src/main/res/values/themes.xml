@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.CallShield" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- اللون الأساسي للخلفية -->
+        <item name="android:windowBackground">@android:color/white</item>
+        <!-- لون شريط الحالة (الأعلى) -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- جعل شريط الحالة شفافاً مع تغيير لون الأيقونات -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
